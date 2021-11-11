@@ -76,51 +76,51 @@ const PageData = [
     tags: [
       {
         name: 'description',
-        content: titleDescriptionMetas.description.about
+        content: titleDescriptionMetas.description.about,
       },
       {
         name: 'og:image',
-        content: image
+        content: image,
       },
       {
         name: 'og:type',
-        content: 'website'
+        content: 'website',
       },
       {
         name: 'og:title',
-        content: titleDescriptionMetas.title.about
+        content: titleDescriptionMetas.title.about,
       },
       {
         name: 'og:site_name',
-        content: siteName
+        content: siteName,
       },
       {
         name: 'og:url',
-        content: ''
+        content: '',
       },
       {
         name: 'twitter:card',
-        content: twitterCard
+        content: twitterCard,
       },
       {
         name: 'twitter:site',
-        content: twitterHandler
+        content: twitterHandler,
       },
       {
         name: 'twitter:creator',
-        content: twitterHandler
+        content: twitterHandler,
       },
       {
         name: 'twitter:title',
-        content: titleDescriptionMetas.title.about
+        content: titleDescriptionMetas.title.about,
       },
       {
         name: 'twitter:description',
-        content: titleDescriptionMetas.description.avoutb
+        content: titleDescriptionMetas.description.avoutb,
       },
       {
         name: 'twitter:image',
-        content: image
+        content: image,
       },
     ],
   },
