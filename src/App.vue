@@ -1,48 +1,48 @@
 <script>
 export default {
   name: 'App',
-  metaInfo() {
-    return {
-      title: 'This is a demo project',
-      meta: [
-        {
-          name: 'description',
-          content: 'This is a test for testing the meta data',
-        },
-        {
-          property: 'og:title',
-          content: 'This is a demo project',
-        },
-        {
-          property: 'og:url',
-          content: 'https://372b5435.demo-vue-meta.pages.dev/',
-        },
-        { property: 'og:site_name', content: 'Demo' },
-        { property: 'og:type', content: 'website' },
-        {
-          property: 'og:image',
-          content:
-            'https://i1.wp.com/www.burning-glass.com/wp-content/uploads/coding_400x267-1.jpg?resize=400%2C267&ssl=1',
-        },
-        { property: 'twitter:card', content: 'summary_large_image' },
-        {
-          property: 'twitter:url',
-          content: 'https://372b5435.demo-vue-meta.pages.dev/',
-        },
-        { property: 'twitter:title', content: 'This is a demo project' },
-        {
-          property: 'twitter:description',
-          content: 'This is a test for testing the meta data',
-        },
-        {
-          property: 'twitter:image',
-          content:
-            'https://i1.wp.com/www.burning-glass.com/wp-content/uploads/coding_400x267-1.jpg?resize=400%2C267&ssl=1',
-        },
-        { name: 'robots', content: 'index,follow' },
-      ],
-    };
-  },
+  // metaInfo() {
+  //   return {
+  //     title: 'This is a demo project',
+  //     meta: [
+  //       {
+  //         name: 'description',
+  //         content: 'This is a test for testing the meta data',
+  //       },
+  //       {
+  //         property: 'og:title',
+  //         content: 'This is a demo project',
+  //       },
+  //       {
+  //         property: 'og:url',
+  //         content: 'https://372b5435.demo-vue-meta.pages.dev/',
+  //       },
+  //       { property: 'og:site_name', content: 'Demo' },
+  //       { property: 'og:type', content: 'website' },
+  //       {
+  //         property: 'og:image',
+  //         content:
+  //           'https://i1.wp.com/www.burning-glass.com/wp-content/uploads/coding_400x267-1.jpg?resize=400%2C267&ssl=1',
+  //       },
+  //       { property: 'twitter:card', content: 'summary_large_image' },
+  //       {
+  //         property: 'twitter:url',
+  //         content: 'https://372b5435.demo-vue-meta.pages.dev/',
+  //       },
+  //       { property: 'twitter:title', content: 'This is a demo project' },
+  //       {
+  //         property: 'twitter:description',
+  //         content: 'This is a test for testing the meta data',
+  //       },
+  //       {
+  //         property: 'twitter:image',
+  //         content:
+  //           'https://i1.wp.com/www.burning-glass.com/wp-content/uploads/coding_400x267-1.jpg?resize=400%2C267&ssl=1',
+  //       },
+  //       { name: 'robots', content: 'index,follow' },
+  //     ],
+  //   };
+  // },
 };
 </script>
 
