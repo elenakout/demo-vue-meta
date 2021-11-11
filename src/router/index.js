@@ -1,9 +1,7 @@
 import Vue from 'vue';
 import VueRouter from 'vue-router';
-import VueHead from 'vue-head';
 import Home from '../views/Home.vue';
 
-Vue.use(VueHead);
 Vue.use(VueRouter);
 
 const routes = [
